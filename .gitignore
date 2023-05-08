@@ -1,0 +1,26 @@
+# Dependencias instaladas con npm
+/node_modules
+
+# Archivos de registro
+logs
+*.log
+
+# Archivos compilados o generados por el código
+dist
+build
+out
+
+# Archivos de configuración que contienen información sensible
+.env
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Otros archivos y directorios que no deben ser incluidos en el repositorio
+.DS_Store
+Thumbs.db
+.idea
+.vscode
